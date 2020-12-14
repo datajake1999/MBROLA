@@ -1,0 +1,1 @@
+in order to build mbrola for Windows CE, you must clone https://github.com/krestenkrab/wcelibcex to this directory.
